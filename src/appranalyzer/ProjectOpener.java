@@ -12,6 +12,6 @@ package appranalyzer;
 public class ProjectOpener {
     private WindowExplorer windowsexplorer = new WindowExplorer();
     public static void shows(){
-        WindowExplorer.shows();
+ 
     }
 }
